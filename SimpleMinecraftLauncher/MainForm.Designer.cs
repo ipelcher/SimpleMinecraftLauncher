@@ -691,12 +691,12 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(809, 611);
+            this.label3.Location = new System.Drawing.Point(770, 612);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(76, 16);
+            this.label3.Size = new System.Drawing.Size(115, 16);
             this.label3.TabIndex = 31;
-            this.label3.Text = "Version: 1.0";
+            this.label3.Text = "[DEV] Version: 1.0";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label5
@@ -714,7 +714,7 @@
             // 
             this.testBtn.Enabled = false;
             this.testBtn.Location = new System.Drawing.Point(464, 597);
-            this.testBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.testBtn.Margin = new System.Windows.Forms.Padding(4);
             this.testBtn.Name = "testBtn";
             this.testBtn.Size = new System.Drawing.Size(100, 28);
             this.testBtn.TabIndex = 33;
