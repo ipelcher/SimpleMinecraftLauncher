@@ -2,4 +2,4 @@
 
 Fast, Secure and Simple Minecraft Launcher
 
-[Website](https://smclauncher.ml/)
+<a href="https://smclauncher.ml/" target="_blank">Website</a>
